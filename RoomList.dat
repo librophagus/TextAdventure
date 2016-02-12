@@ -1,0 +1,4 @@
+White House	You are standing in front of a white house. There is a mailbox to your left.	1,2,3	2	0	0	0	0	0
+Back of House	You are now behind the house, looking at the back door.	5	0	1	0	0	0	0
+Dungeon Room	You are in a twisting system of caverns. Passageways seem to appear at random.	0	0	0	0	0	0	0
+#	Name, Description, Items(a,b,c..), North, South, East, West, Up, Down Links

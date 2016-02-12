@@ -1,0 +1,12 @@
+0	Ice	0	0	A piece of cold ice.
+4	Mushroom	0	0	A slimy mushroom.	VEGGIE
+0	Walkie-Talkie	0	0	A walkie-talkie with no batteries.
+4	Pickle	0	0	A salty pickle. Delicious.	VEGGIE
+3	Bell	0	0	A tarnished little bell. Polishing it with your sleeve reveals a silvery shine.	0	6
+0	Silver Bell	0	0	A silvery little bell. Strange markings ring the bottom of it.
+4	Chili	0	0	With an I.	VEGGIE
+#	Apple	0	0	A bright red apple. Looks delicious.	1	9
+0	Apple Core	0	0	The remains of a delicious apple.
+0	Sword of Scripting	0	0	A magical sword of scriptingness.
+#	Name, Value, Weight, Description. Probably want to add type and other parameters also.
+#	ItemType: 0- General Item, 1- Tool, 2- Weapon, 3- Transformable item (0=Look|1=Use,ID), 4- Edible Item.
